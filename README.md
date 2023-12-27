@@ -7,15 +7,15 @@ https://github.com/anuraghazra/github-readme-stats
 
 <h2>Welcome! <a href="https://github.com/blob5"> <img src="https://komarev.com/ghpvc/?username=blob5" alt="Visitors"></a></h2>
 
-I'm blob, a first year Software Development student at HU University of Applied Sciences Utrecht
+I'm Senna, a first year Software Development student at HU University of Applied Sciences Utrecht
 
 ![](https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974)
 
-I make bad program
-
+<!--
 <a href="https://www.hackerrank.com/blob05">
   <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 </a>
+-->
 
 ```bash
 C:\Users\blob>ssh blob5@my.head
