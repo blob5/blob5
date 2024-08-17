@@ -7,7 +7,7 @@ https://github.com/anuraghazra/github-readme-stats
 
 <h2>Welcome! <a href="https://github.com/blob5"> <img src="https://komarev.com/ghpvc/?username=blob5" alt="Visitors"></a></h2>
 
-I'm Senna, a first year Software Development student at HU University of Applied Sciences Utrecht
+I'm Senna, a second year Software Development student at HU University of Applied Sciences Utrecht
 
 ![](https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974)
 
